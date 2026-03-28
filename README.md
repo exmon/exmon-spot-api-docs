@@ -43,5 +43,7 @@ Please refer to [CHANGELOG.md](./CHANGELOG.md) for the latest updates and change
 
 ## Contact
 
-* For API questions and technical issues — use official support channels
-* For account-related issues — contact EXMON support
+* For API questions and technical issues — use official support channels:
+  * [Tiket](https://exmon.pro/contact)
+  * [Telegram](http://t.me/exmon_official)
+* For account-related issues — contact [EXMON support](http://t.me/exmon_official)
