@@ -15,16 +15,6 @@ Name | Description
 [enums.md](./enums.md) | Common enums used across the API (pairs, types, etc.)
 [filters.md](./filters.md) | Trading rules, limits, and pair restrictions
 
----
-
-## API Overview
-
-* Base endpoint: ```https://api.exmon.pro/v1.1 ```
-* Public API only (no authentication required)
-* Designed for market data and exchange metadata
-* All responses are returned in JSON format
-* POST endpoints use `application/x-www-form-urlencoded`
-* GET endpoints use query string parameters
 
 ---
 
