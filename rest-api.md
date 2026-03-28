@@ -139,3 +139,7 @@ If exceeded, HTTP 429 is returned.
   * - Database (persistent storage)
 
 Some endpoints may use fallback chains like Memory → Database.
+
+---
+
+Specific error codes and messages are defined in the [Error Codes](./errors.md) section.
