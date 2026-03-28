@@ -68,8 +68,8 @@ Any endpoint can return an error.
 Sample payload:
 <pre>
 {
-  "code": -1121,
-  "msg": "Invalid symbol."
+  "code": -1000,
+  "message": "Invalid request parameters"
 }
 </pre>
 Specific error codes and messages are defined in the Error Codes section.
