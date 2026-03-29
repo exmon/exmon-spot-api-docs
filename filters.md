@@ -40,12 +40,12 @@ Defines allowed quantity range.
 - `quantity` <= `max_quantity`
 
 **Example:**
-<pre>
+```
 {
   "min_quantity": "0.00001",
   "max_quantity": "1000"
 }
-</pre>
+```
 ---
 
 ### AMOUNT LIMITS (Market Orders Only)
@@ -62,12 +62,12 @@ Defines limits for total order value (quote currency).
 - `amount` <= `max_amount`
 
 **Example:**
-<pre>
+```
 {
   "min_amount": "1",
   "max_amount": "50000"
 }
-</pre>
+```
 
 ---
 
@@ -81,11 +81,11 @@ Defines number of decimal places allowed in price.
 - Price must match allowed precision
 
 **Example:**
-<pre>
+```
 {
   "price_precision": 2
 }
-</pre>
+```
 
 ---
 
@@ -97,12 +97,12 @@ Defines trading fees.
 - `commission_taker_percent` — "0"
 
 **Example:**
-<pre>
+```
 {
   "commission_maker_percent": "0",
   "commission_taker_percent": "0"
 }
-</pre>
+```
 
 ---
 
