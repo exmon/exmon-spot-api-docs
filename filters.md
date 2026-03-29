@@ -20,12 +20,12 @@ Defines allowed price range for a trading pair.
 - `price` <= `max_price`
 
 **Example:**
-<pre>
+```
 {
   "min_price": "1",
   "max_price": "100000"
 }
-</pre>
+```
 ---
 
 ### QUANTITY LIMITS
