@@ -16,8 +16,8 @@ Defines allowed price range for a trading pair.
 - `max_price` — maximum allowed price
 
 **Rules:**
-- `price` >= `min_price`
-- `price` <= `max_price`
+- `price >= min_price`
+- `price <= max_price`
 
 **Example:**
 ```
@@ -36,8 +36,8 @@ Defines allowed quantity range.
 - `max_quantity` — maximum order quantity
 
 **Rules:**
-- `quantity` >= `min_quantity`
-- `quantity` <= `max_quantity`
+- `quantity >= min_quantity`
+- `quantity <= max_quantity`
 
 **Example:**
 ```
@@ -58,8 +58,8 @@ Defines limits for total order value (quote currency).
 ⚠ Applies only to market orders (`market_buy_total`, `market_sell_total`)
 
 **Rules:**
-- `amount` >= `min_amount`
-- `amount` <= `max_amount`
+- `amount >= min_amount`
+- `amount` <= max_amount`
 
 **Example:**
 ```
