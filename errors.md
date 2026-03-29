@@ -9,12 +9,12 @@ This document describes error responses returned by the EXMON Public API.
 All errors are returned in JSON format.
 
 Example:
-<pre>
+```
 {
   "code": -1000,
   "message": "Invalid request parameters"
 }
-</pre>
+```
 ---
 
 ## Error Fields
