@@ -59,7 +59,7 @@ Defines limits for total order value (quote currency).
 
 **Rules:**
 - `amount >= min_amount`
-- `amount` <= max_amount`
+- `amount <= max_amount`
 
 **Example:**
 ```
