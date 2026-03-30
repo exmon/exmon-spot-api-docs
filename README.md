@@ -22,9 +22,11 @@ Name | Description
 
 Name | Description
 ------------ | ------------
-[market_data](./faqs/market_data.md) | Information about market data endpoints
-[rate_limits](./faqs/rate_limits.md) | API limits and usage rules
-[data_format](./faqs/data_format.md) | Response structure and numeric formats
+[api_key_types](../faqs/api_key_types.md) | API Key Types
+[spot_glossary](../faqs/spot_glossary.md) | Definition of terms used in the API
+[commission_faq](../faqs/commission_faq.md) | Explaining commission calculations on the API
+[market_data_only](./faqs/market_data_only.md) | Information about market data endpoints
+[market_orders_faq](./faqs/market_orders_faq.md) | Market Order behavior and execution rules
 
 ---
 
