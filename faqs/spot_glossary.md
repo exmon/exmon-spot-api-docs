@@ -1,4 +1,4 @@
-# SPOT API Glossary (EXMON)
+# SPOT API Glossary
 
 **Disclaimer:** This glossary applies only to the EXMON SPOT API. Definitions may differ for Futures, Options, or other systems.
 
